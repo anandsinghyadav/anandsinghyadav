@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anand Singh Yadav</h1>
 <h3 align="center">A passionate Java Backend-Developer from India</h3>
-<img align="right" alt="Coding" width="1000" height="200" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandsinghyadav&label=Profile%20views&color=0e75b6&style=flat" alt="anandsinghyadav" /> </p>
 
