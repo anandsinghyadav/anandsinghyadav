@@ -2,13 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Anand Singh Yadav</h1>
 <h3 align="center">A passionate Java Backend-Developer from India</h3>
+<p align ="center"> <img width="940" src="https://media-exp1.licdn.com/dms/image/C4D16AQGJco2FsW2F-w/profile-displaybackgroundimage-shrink_200_800/0/1653841985482?e=1659571200&v=beta&t=x9yV2OYgq8LgDK_ZvXe3WrbN8iid6Z5uT9koUFKF_7I" alt="anand"/> </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandsinghyadav&label=Profile%20views&color=0e75b6&style=flat" alt="anandsinghyadav" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anandsinghyadav&label=Profile%20views&color=0e75b6&style=flat" alt="anandsinghyadav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandsinghyadav" alt="anandsinghyadav" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandsinghyadav" alt="anandsinghyadav" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anandyadav009" target="blank"><img src="https://img.shields.io/twitter/follow/anandyadav009?logo=twitter&style=for-the-badge" alt="anandyadav009" /></a> </p>
+<p align="center"> <a href="https://twitter.com/anandyadav009" target="blank"><img src="https://img.shields.io/twitter/follow/anandyadav009?logo=twitter&style=for-the-badge" alt="anandyadav009" /></a> </p>
 
 - 🌱 I’m currently learning **SpringBoot,LLL,AWS**
 
