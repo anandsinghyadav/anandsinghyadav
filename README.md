@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anand Singh Yadav</h1>
 <h3 align="center">A Passionate Java Backend Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.</h3>
-<p align ="center"> <img width="930" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" alt="anand"/> </p>
+<p align ="center"> <img width="830" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" alt="anand"/> </p>
 
 
 
