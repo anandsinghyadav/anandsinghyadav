@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anand Singh Yadav</h1>
-<h3 align="center">A Passionate Java Full Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.</h3>
+<h3 align="center">A Passionate Java Full Stack Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.</h3>
 <p align ="center"> <img width="830" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" alt="anand"/> </p>
 
 
@@ -19,9 +19,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@anandyadav2332](https://medium.com/@anandyadav2332)
 
-- 💬 Ask me about **JAVA,MySQL,Spring Boot,Javascript,DSA,HTML,CSS**
+- 💬 Ask me about **JAVA, Spring Boot, Spring Security, Javascript, HTML, CSS, React, NodeJs, MySQL, MongoDB, PostgreSQL**
 
-- 📫 How to reach me **anandyadav2332@gmail.com**
+- 📫 How to reach me **anandsinghyadav9092@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TpEFU0zglI8-YW3kX5BonYe87vzBCObH/view?usp=sharing](https://drive.google.com/file/d/1TpEFU0zglI8-YW3kX5BonYe87vzBCObH/view?usp=sharing)
 
